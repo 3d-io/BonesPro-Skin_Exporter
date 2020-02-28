@@ -17,6 +17,9 @@ Drag the Script to your Toolbar and from there you can execute it anytime.
 
 # Usage
 This script adds a single button to your Interface.
+
+![Explanation Video](images/bonespro-skin_exporter.gif)
+
 Select one or multiple objects in your scene skinned with BonesPro. 
 Press the "BonesPro-Skin_Exporter" button.
 It will instantly add Skin Modifier on the top of your ModifierStack, converting all vertex weights exactly from BonesPro Modifier while preserving it in the ModifierStack in disabled mode as backup for further modifications.
