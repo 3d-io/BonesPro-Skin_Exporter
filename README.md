@@ -8,10 +8,10 @@ https://www.bonespro.com/
 # Installation
 Unzip the contents of this zip file into the [maxfolder] directory, for example: c:\3dsmax2019\.
 After you extract the files you can add the script to your interface. It is located in:
-*Customize ->
-*	Toolbars  ->
-*		Group: Main UI
-*		       Category: -> 	--3d-io--
+- Customize ->
+-	Toolbars  ->
+-		Group: Main UI
+-		       Category: -> 	--3d-io--
 
 Drag the Script to your Toolbar and from there you can execute it anytime.
 
